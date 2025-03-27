@@ -4,5 +4,5 @@ numpy
 joblib
 pydantic 
 pandas
-urllib
 tld
+xgboost
